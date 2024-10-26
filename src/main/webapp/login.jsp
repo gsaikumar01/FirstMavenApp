@@ -20,5 +20,6 @@
 		else{
 			pw.print("<div style='color: red; text-align: center;'><h1>Logined Failed...!</h1></div>");
 		}
+	%>
 </body>
 </html>
